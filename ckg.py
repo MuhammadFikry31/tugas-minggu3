@@ -4,8 +4,8 @@ from data import input_angka, input_teks_wajib, tampilkan_judul
 
 
 PERTANYAAN_SURVEI = (
-    "Apakah Anda melakukan pemeriksaan kesehatan dalam 12 bulan terakhir?",
-    "Apakah Anda aktif bergerak atau berolahraga secara rutin?",
+    "Apakah Anda Melakukan Pemeriksaan Kesehatan dalam 12 Bulan Terakhir?",
+    "Apakah Anda Aktif Bergerak atau Berolahraga Secara Rutin?",
     "Apakah Anda biasanya mendapatkan waktu tidur yang cukup?",
     "Apakah Anda minum air secara berkala setiap hari?",
     "Apakah Anda mengonsumsi buah atau sayur setiap hari?",

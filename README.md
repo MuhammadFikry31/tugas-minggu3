@@ -70,7 +70,7 @@ python main.py
 2. Muhammad Fikry Auladi Insani
 3. Intan Cahya Putri
 4. Muhammad Idzhar Arsalan
-5. AL-AKBARI
+5. AL-AKBARI (yang akun shafamecca6-beep)
 6. Dary Darwisy Ramdhani
 7. Muhammad Hasfi A P
 
