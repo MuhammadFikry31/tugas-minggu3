@@ -9,7 +9,7 @@ membutuhkan paket tambahan.
 
 ## Tujuan
 
-Tujuan pembuatan aplikasi ini adalah menyediakan sarana sederhana bagi..
+Tujuan pembuatan aplikasi ini adalah menyediakan sarana sederhana bagi
 mahasiswa untuk lebih memperhatikan kebiasaan sehari-hari yang berhubungan
 dengan kesehatan, seperti aktivitas fisik, konsumsi air, dan durasi tidur.
 Aplikasi ini juga memberikan tips kesehatan umum dan ringkasan dari catatan
